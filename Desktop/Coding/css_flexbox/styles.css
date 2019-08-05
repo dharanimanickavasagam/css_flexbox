@@ -1,0 +1,19 @@
+.container {
+    margin: 20px;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.form-row label {
+    flex: 1;
+}
+
+.form-row {
+    padding-right: 10px 0;
+    display: flex;
+    margin: 20px;
+}
+
+.form-row input {
+    flex: 1;
+}
